@@ -1,0 +1,118 @@
+!SESSION 2013-09-22 16:14:08.777 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0_40
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=de_CH
+Framework arguments:  -product org.eclipse.epp.package.dsl.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.dsl.product
+
+!ENTRY com.yattasolutions.umllab.ui 4 0 2013-09-22 16:16:02.021
+!MESSAGE No valid license is available.
+!STACK 0
+com.yattasolutions.obf.kg.g: No license found for UML Lab.
+	at 7A2NMJZ44OG7F2H5S6FQZESPWK5QOCQIVFGQ5QERN5ZRQN2IWHPFVODWSQBD23EFBRDEMFWTZ25J53TXMYUI5ARJ2KMTIFNTDBAYILZVUOFJMXL74VDPSPB4IM3MXIJ3E5O4UH727SUS7SJXD7DOZ63DNVTWJWOCQVJSU4KPKKB7RBEMLOORV6C2U35NGB3I6FMGM4QFVFI6COJUJHSRGEFYQJFLRUINTFU6RWFQC4OTHS2XCWSGS7IAFEP6EHZQMGFP7A3SMB4DMFQEIZ5NTUKAYOH6KJA4ZSMX4WI2UF26WYCJUOOIQK6PROIJA5CSVLM5AFPGULKE5ARLEGEFOWLXFS4CIMD662SMB7HYC2XOM6MNZ6I5FOI3YA4UXAXBQUKLMHSR3YJOKKJTQHEIZAAJXGDH6RXJCW7PLTVI7DX6C5IBT7I5Y7BOHPPDKODJJANIZ47XW5YBQ5TGQG337Z52LSGLA3WW6NRMKMRU5LMHR7V655LZC6D3JJ6EVMBC6WT3FWRJ73Y5GYQLMBXKOMXW5C7LHEVGWCT64M5VRUYCYS5MNDOC4M4WDA7ASNYMSWUB36A7QUOU5QORIONXS3RJ6LHCDPCGSO4BZT2H5RTZMGA42F5ZAJTABTLLINAAMJR5I77OGO27U3ZYM7OGCIE7VU7FRHENB67RC3LTYRJUYH76WS6KXUNVVQFTDHE25J3VSY4MBQ343B64O5GZH7NWPNPXHESJJ7AGNXIWIEINYDKM4N7KI5BH76UKXYOIOF7VF4RSNESADCIW6PECKVI7LZTMGE3KE3QUG4LLAD6T7V5LLKSNWW3IEZPAXZJC2VGAKXF2B5MUWDIBBOMK45Q3F6KNHHUD53FY3RGYRAWF2H7MDR57QXU2HDVWJB46GZEDDGLNC7Q6P2RPWIWOBYNPWI6UQLS5G3RRS2K5XWRPSN62CEXMMHCEAAGHBXEVU4RM4ZXNDWOAVHV22LGE6NW454H5AY753BFFCJTERATG3XBG76RESMTRAWO2EQLAYC6PXGDBSHA3ZB6QXQSMECHRRZJJZSZYSCD5TNJVKZRZRQLJC66NYNIEOMPZ5UU3V56S64SP6ICDPRHLVNDY2GRV7W3WH4JANPO5XHYPIT44TEOZUXFYVTG3UCHKVSZ7XBZEAAVALYZ33RXEDGWLP6CW22B46L5CS4UAAP3GPGD5O2FXXSBF6ZBZ2VV4UXGUZW5GV7J7BV35D4GJ6UMLDBDDH3OXEUGER3DCX2WTGXAJNSQRASV2RQPB4HG3AILJBFWECB3HUOSSYWZW76VGEBXH6YLMCDUKJWS2W5HJXI6UK4IGPQOXTAMFPNCNHNCE6PSAXCZVCQQN3ZDBLNUPNIVOHGZXSTCYN7RIFCNI6PWUMWLT42GD6XXAIMAQEKGTUYNRZNK3LN3S7DUAS7OB7DM6GKBLNQEW72PENNZARAZLWXXFCRVLZAJDXKHHCUPLECDNH34HOBKGIA76AMEORQCYOFIXQGDIVXEOU4NTIJB7O2AOG62Z6QMUTKMZ2US3PNZYT5ELMEBE6TYIR6GLLVZO54ZRDQIRHPYXRHAELPMVCHS3565T5NBCKGWHVONAAIW2EDXLDT3TFEEUSABV5RY5UWBQDSMAXYX4OOTBIDC2U5CJQRYQ6U5KZJDGK7OT4H2GEVYQDT6LJVIM7LYHOQPGTQZ3JMN3CSBKFDMSE3DDOPLBNFWZCNMTNFKFUM6UUU2HKVB2F2JXLVQBCSNV4SMHOGQDLPPAZADLHMEDQUZ4YLI44VZU7Q7FOIRRASF7WTPFS2KPICKRT5GWUJAXSEEZ5I7AMWM72S56Y5PVNXZ5ZSDLCI4KOUP7NIF5FJPYXZP7QCIBHG2GGUIKZ2R7ERYDMXPK7IUMWIHS4GBGQ67LIUEVTKIR5WKOKWBYSU2PGMUAANKA3F6BRVVANKUKNVNMMER2NEZUQL3E6ROSJ275DJVR45TX2CV2EKF6RLSKBG3L4JHL6KVEUVTSWNA6M4GY566WW4NVZY6WMHYKALN4SJTJOLH3TJGA7XJMJWUKDPSC2AVVR2ZHLSAGL472HRXOPTO764HNCPKQYDRGZFM7F6PDI33QE3SWANUDMJA7H7I4773B6ZDFWUW6FK6LYZG7H7ANYC6GQKJLNJUED5DH5RNZE7ISLZ5B2PDJ2OSNVNR6XQQZNVP4IO3IBXXUDHQGEUFCSTD3ZHGR3JCBBMN3L6LQUEO4V73S3OSUYRZ5GVLEWP2LMZUWP5KVWYAQ6HYNB3FT6D3FQB6MN5PX2XXM353OM6NXOFWEDSI37VUNHHCQOPKWHGCEXWDTROO525PCNPOHBXD4LWKMB6W56OVCGFYD3PBFE5B7BXGS23Y2GQN4B6Q6JOFDYHCQNPYOKCI3RGNYOK3IQ7PVH7CDL5U7DA65Y7UA4FC542EJHKNJAU64FSFPGKTKGC7U6V623MXE33C2C3OBDVOFT6JSGYWNL54ENNBKTHLSDGWSL2NOIPBTAPTYKEZOYTSCGVZ5IX6Y5XBK2KOXHKULU3D5VDII7646AVDDYB4ULUF44KTGORIQWY3AMAHRKZ5IOPF2IIBSQHY3IN3F5ADUNDD7RU4VXVIDNQOMYNSIRTEFTXDFUK4HWD76LTT4VTRV2H4SIZBT7I7DZX4RGE2KUP44SCRZOY5D5IEZRYQRMXAUFIKJPAISUWIOHAC423DC47C6TYBMHS4THO2WIMJWK62SNFMX7HTRS53X4QLVBHMASRU4SKSRVE6EV6DHCVLX3JQZ6PO5VNINXVVDEKBV7NXRWZLOE4ZM5YQYKYCG6SYD7GXJH7BUGBL2QAQ5U2OCOHV4AUJ57YJHHIPZM2SFEIT4FC5W3KDUPEKRFM5LJ53LXXS4KYZ7RXIOIY2JWLUWGZRJLXPTA3KAIRDDFGXPNPIPYU6BAELPYSFUZUAWY4RV7PDLDEWOMWOCFFT6YDVCKDKNLFV3JVEVEGBMP5Q5RJWQAGMYMLMKXFAB/ZRKKPLDQZANRBEK2K763PIRIEB.<unknown>(Unknown Source)
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-09-22 16:16:53.767
+!MESSAGE New Project Wizard failed
+!STACK 0
+java.lang.reflect.InvocationTargetException
+	at com.android.ide.eclipse.adt.internal.wizards.newproject.NewProjectCreator.createProjectAsync(NewProjectCreator.java:677)
+	at com.android.ide.eclipse.adt.internal.wizards.newproject.NewProjectCreator.access$0(NewProjectCreator.java:590)
+	at com.android.ide.eclipse.adt.internal.wizards.newproject.NewProjectCreator$3.execute(NewProjectCreator.java:400)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation$1.run(WorkspaceModifyOperation.java:106)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:118)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+Caused by: org.eclipse.core.internal.resources.ResourceException: Invalid project description.
+	at org.eclipse.core.internal.resources.Project.checkDescription(Project.java:175)
+	at org.eclipse.core.internal.resources.Project.assertCreateRequirements(Project.java:53)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:287)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:269)
+	at com.android.ide.eclipse.adt.internal.wizards.newproject.NewProjectCreator.createEclipseProject(NewProjectCreator.java:727)
+	at com.android.ide.eclipse.adt.internal.wizards.newproject.NewProjectCreator.createProjectAsync(NewProjectCreator.java:660)
+	... 6 more
+Root exception:
+org.eclipse.core.internal.resources.ResourceException: Invalid project description.
+	at org.eclipse.core.internal.resources.Project.checkDescription(Project.java:175)
+	at org.eclipse.core.internal.resources.Project.assertCreateRequirements(Project.java:53)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:287)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:269)
+	at com.android.ide.eclipse.adt.internal.wizards.newproject.NewProjectCreator.createEclipseProject(NewProjectCreator.java:727)
+	at com.android.ide.eclipse.adt.internal.wizards.newproject.NewProjectCreator.createProjectAsync(NewProjectCreator.java:660)
+	at com.android.ide.eclipse.adt.internal.wizards.newproject.NewProjectCreator.access$0(NewProjectCreator.java:590)
+	at com.android.ide.eclipse.adt.internal.wizards.newproject.NewProjectCreator$3.execute(NewProjectCreator.java:400)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation$1.run(WorkspaceModifyOperation.java:106)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:118)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+Contains: OK
+Contains: C:\Users\sammer\Desktop\Ese\MyFirstApp overlaps the workspace location: C:\Users\sammer\Desktop\Ese\MyFirstApp
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-09-22 16:17:22.157
+!MESSAGE 
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not read from source when writing file: C:\Users\sammer\Desktop\Ese\MyFirstApp\.metadata\.lock
+	at org.eclipse.core.internal.filesystem.Policy.error(Policy.java:55)
+	at org.eclipse.core.filesystem.provider.FileStore.transferStreams(FileStore.java:78)
+	at org.eclipse.core.filesystem.provider.FileStore.copyFile(FileStore.java:222)
+	at org.eclipse.core.filesystem.provider.FileStore.copy(FileStore.java:143)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.copy(LocalFile.java:111)
+	at org.eclipse.core.filesystem.provider.FileStore.copyDirectory(FileStore.java:181)
+	at org.eclipse.core.filesystem.provider.FileStore.copy(FileStore.java:141)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.copy(LocalFile.java:111)
+	at org.eclipse.core.filesystem.provider.FileStore.copyDirectory(FileStore.java:181)
+	at org.eclipse.core.filesystem.provider.FileStore.copy(FileStore.java:141)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.copy(LocalFile.java:111)
+	at com.android.ide.eclipse.adt.internal.wizards.newproject.FileStoreAdapter.copy(FileStoreAdapter.java:68)
+	at com.android.ide.eclipse.adt.internal.wizards.newproject.NewProjectCreator$4.populate(NewProjectCreator.java:653)
+	at com.android.ide.eclipse.adt.internal.wizards.newproject.NewProjectCreator.createEclipseProject(NewProjectCreator.java:759)
+	at com.android.ide.eclipse.adt.internal.wizards.newproject.NewProjectCreator.createProjectAsync(NewProjectCreator.java:660)
+	at com.android.ide.eclipse.adt.internal.wizards.newproject.NewProjectCreator.access$0(NewProjectCreator.java:590)
+	at com.android.ide.eclipse.adt.internal.wizards.newproject.NewProjectCreator$3.execute(NewProjectCreator.java:400)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation$1.run(WorkspaceModifyOperation.java:106)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:118)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+Caused by: java.io.IOException: Der Prozess kann nicht auf die Datei zugreifen, da ein anderer Prozess einen Teil der Datei gesperrt hat
+	at java.io.FileInputStream.readBytes(Native Method)
+	at java.io.FileInputStream.read(Unknown Source)
+	at org.eclipse.core.filesystem.provider.FileStore.transferStreams(FileStore.java:75)
+	... 19 more
+!SUBENTRY 1 org.eclipse.core.filesystem 4 271 2013-09-22 16:17:22.158
+!MESSAGE Could not read from source when writing file: C:\Users\sammer\Desktop\Ese\MyFirstApp\.metadata\.lock
+!STACK 0
+java.io.IOException: Der Prozess kann nicht auf die Datei zugreifen, da ein anderer Prozess einen Teil der Datei gesperrt hat
+	at java.io.FileInputStream.readBytes(Native Method)
+	at java.io.FileInputStream.read(Unknown Source)
+	at org.eclipse.core.filesystem.provider.FileStore.transferStreams(FileStore.java:75)
+	at org.eclipse.core.filesystem.provider.FileStore.copyFile(FileStore.java:222)
+	at org.eclipse.core.filesystem.provider.FileStore.copy(FileStore.java:143)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.copy(LocalFile.java:111)
+	at org.eclipse.core.filesystem.provider.FileStore.copyDirectory(FileStore.java:181)
+	at org.eclipse.core.filesystem.provider.FileStore.copy(FileStore.java:141)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.copy(LocalFile.java:111)
+	at org.eclipse.core.filesystem.provider.FileStore.copyDirectory(FileStore.java:181)
+	at org.eclipse.core.filesystem.provider.FileStore.copy(FileStore.java:141)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.copy(LocalFile.java:111)
+	at com.android.ide.eclipse.adt.internal.wizards.newproject.FileStoreAdapter.copy(FileStoreAdapter.java:68)
+	at com.android.ide.eclipse.adt.internal.wizards.newproject.NewProjectCreator$4.populate(NewProjectCreator.java:653)
+	at com.android.ide.eclipse.adt.internal.wizards.newproject.NewProjectCreator.createEclipseProject(NewProjectCreator.java:759)
+	at com.android.ide.eclipse.adt.internal.wizards.newproject.NewProjectCreator.createProjectAsync(NewProjectCreator.java:660)
+	at com.android.ide.eclipse.adt.internal.wizards.newproject.NewProjectCreator.access$0(NewProjectCreator.java:590)
+	at com.android.ide.eclipse.adt.internal.wizards.newproject.NewProjectCreator$3.execute(NewProjectCreator.java:400)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation$1.run(WorkspaceModifyOperation.java:106)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:118)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-09-22 16:17:22.326
+!MESSAGE Failed to load properties file for project 'MyFirstApp'
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-09-22 16:17:22.417
+!MESSAGE Failed to load properties file for project 'MyFirstApp'
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-09-22 16:17:22.425
+!MESSAGE Failed to load properties file for project 'MyFirstApp'
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-09-22 16:17:22.478
+!MESSAGE Failed to load properties file for project 'MyFirstApp'
